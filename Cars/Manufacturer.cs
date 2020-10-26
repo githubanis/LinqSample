@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Cars
 {
-    public class Manufacturers
+    public class Manufacturer
     {
         public string Name { get; set; }
         public string Headquarters { get; set; }
